@@ -1,0 +1,308 @@
+{
+    "schemes": [
+        {
+            "plan": "Hey",
+            "target_audience": "Hey! How's it going?"
+        },
+        {
+            "plan": "What's up",
+            "target_audience": "Not much. What about you?"
+        },
+        {
+            "plan": "Howdy",
+            "target_audience": "Howdy! What can I do ya for?"
+        },
+        {
+            "plan": "Hiya",
+            "target_audience": "Hiya! What's on your mind?"
+        },
+        {
+            "plan": "Yo",
+            "target_audience": "Yo! What's good?"
+        },
+        {
+            "plan": "Hello there",
+            "target_audience": "General Kenobi! Just kidding. What can I do for you?"
+        },
+        {
+            "plan": "Greetings",
+            "target_audience": "Greetings! How may I assist you?"
+        },
+        {
+            "plan": "Good to see you",
+            "target_audience": "Good to see you too! What brings you here?"
+        },
+        {
+            "plan": "Hey buddy",
+            "target_audience": "Hey buddy! What's the latest?"
+        },
+        {
+            "plan": "Hi friend",
+            "target_audience": "Hi friend! What's new?"
+        },
+        {
+            "plan": "Hello friend",
+            "target_audience": "Hello friend! How can I help you today?"
+        },
+        {
+            "plan": "Hi folks",
+            "target_audience": "Hi folks! What can I do for the group?"
+        },
+        {
+            "plan": "Good day",
+            "target_audience": "Good day! What can I assist you with?"
+        },
+        {
+            "plan": "Hey you",
+            "target_audience": "Hey you! What's going on?"
+        },
+        {
+            "plan": "Hi team",
+            "target_audience": "Hi team! How can I support you today?"
+        },
+        {
+            "plan": "Equity Mutual Funds",
+            "target_audience": "Those seeking high long-term returns with high-risk tolerance"
+        },
+        {
+            "plan": "Small-Cap Funds",
+            "target_audience": "Those seeking potentially higher returns with higher risk tolerance"
+        },
+        {
+            "plan": "Mid-Cap Funds",
+            "target_audience": "Those seeking a balance of risk and reward"
+        },
+        {
+            "plan": "Value Investing Funds",
+            "target_audience": "Those willing to research and analyze undervalued stocks"
+        },
+        {
+            "plan": "Direct Equity Investing",
+            "target_audience": "Those with significant knowledge and time for high-risk, high-reward investments"
+        },
+        {
+            "plan": "ELSS (Equity Linked Saving Schemes)",
+            "target_audience": "Those looking for tax deductions under Section 80C"
+        },
+        {
+            "plan": "PPF (Public Provident Fund)",
+            "target_audience": "Those seeking long-term tax-free investment with guaranteed returns"
+        },
+        {
+            "plan": "NPS (National Pension Scheme)",
+            "target_audience": "Those planning for retirement with tax benefits"
+        },
+        {
+            "plan": "ULIPs (Unit Linked Insurance Plans)",
+            "target_audience": "Those seeking insurance and investment with tax benefits"
+        },
+        {
+            "plan": "Fixed Deposits (FDs)",
+            "target_audience": "Those seeking safe and guaranteed returns"
+        },
+        {
+            "plan": "Post Office Savings Accounts",
+            "target_audience": "Those seeking safe and secure savings with decent interest rates"
+        },
+        {
+            "plan": "Gold",
+            "target_audience": "Those seeking a hedge against inflation"
+        },
+        {
+            "plan": "Government Bonds",
+            "target_audience": "Those seeking low-risk, guaranteed returns backed by the government"
+        },
+        {
+            "plan": "NPS (National Pension Scheme)",
+            "target_audience": "Those planning for retirement with tax benefits"
+        },
+        {
+            "plan": "Annuity Plans",
+            "target_audience": "Those seeking regular income after retirement"
+        },
+        {
+            "plan": "Senior Citizen Savings Scheme (SCSS)",
+            "target_audience": "Senior citizens seeking high interest rates"
+        },
+        {
+            "plan": "Sukanya Samriddhi Yojana",
+            "target_audience": "Parents of girl children below 10 years"
+        },
+        {
+            "plan": "Child Education Plans",
+            "target_audience": "Those planning for child education expenses"
+        },
+        {
+            "plan": "Home Loan Schemes",
+            "target_audience": "Those seeking home loans"
+        },
+        {
+            "plan": "SIP (Systematic Investment Plan)",
+            "target_audience": "Those building wealth over the long term with regular investments"
+        },
+        {
+            "plan": "Atal Pension Yojana",
+            "roi": "Variable",
+            "investment": {
+                "min": 42,
+                "max": 15000
+            },
+            "lock_in_period": "Till retirement"
+        },
+        {
+            "plan": "Kisan Vikas Patra (KVP)",
+            "roi": 7.5,
+            "investment": {
+                "min": 1000,
+                "max": null
+            },
+            "lock_in_period": "30 Months"
+        },
+        {
+            "plan": "National Savings Certificate (NSC)",
+            "roi": 7.7,
+            "investment": {
+                "min": 1000,
+                "max": 150000
+            },
+            "lock_in_period": "5 years"
+        },
+        {
+            "plan": "National Pension Scheme (NPS)",
+            "roi": "Market-linked",
+            "investment": {
+                "min": 6000,
+                "max": null
+            },
+            "lock_in_period": "Till retirement"
+        },
+        {
+            "plan": "Post Office Time Deposit Account",
+            "roi": {
+                "min": 6.8,
+                "max": 7.5
+            },
+            "investment": {
+                "min": 1000,
+                "max": null
+            },
+            "lock_in_period": "1 - 5 years"
+        },
+        {
+            "plan": "Post Office Monthly Income Scheme (POMIS)",
+            "roi": 7.4,
+            "investment": {
+                "min": 1000,
+                "max": 900000
+            },
+            "lock_in_period": "5 years"
+        },
+        {
+            "plan": "Pradhan Mantri Jan Dhan Yojana",
+            "roi": 4,
+            "investment": {
+                "min": 0,
+                "max": null
+            },
+            "lock_in_period": "No Lock-in period"
+        },
+        {
+            "plan": "Public Provident Fund (PPF)",
+            "roi": 7.1,
+            "investment": {
+                "min": 500,
+                "max": 150000
+            },
+            "lock_in_period": "15 years"
+        },
+        {
+            "plan": "Sukanya Samriddhi Yojana (SSY)",
+            "roi": 8.0,
+            "investment": {
+                "min": 250,
+                "max": 150000
+            },
+            "lock_in_period": "Till the child turns 21"
+        },
+        {
+            "plan": "Sovereign Gold Bonds (SGB)",
+            "roi": 2.5,
+            "investment": {
+                "min": 1,
+                "max": 500
+            },
+            "lock_in_period": "5 years"
+        },
+        {
+            "plan": "Senior Citizen Savings Scheme (SCSS)",
+            "roi": 8.2,
+            "investment": {
+                "min": 1000,
+                "max": 3000000
+            },
+            "lock_in_period": "5 years"
+        },
+        {
+            "title": "Loan Against Fixed Deposit",
+            "content": {
+                "introduction": {
+                    "summary": "Getting a loan against a fixed deposit is a way to access quick cash without breaking your investment. You can borrow up to 90% of the deposit amount and only need to repay the principal with interest.",
+                    "benefits": [
+                        "Avoid terminating fixed deposit investment",
+                        "Quick access to cash",
+                        "Lower interest rates than traditional loans",
+                        "No prepayment penalty",
+                        "No credit score check required"
+                    ]
+                },
+                "eligibility": {
+                    "title": "Who Can Apply for a Loan Against FD",
+                    "requirements": [
+                        "Hold a fixed deposit with the lending bank or financial institution",
+                        "Be an Indian resident",
+                        "Additional requirements may vary based on bank or NBFC"
+                    ],
+                    "exceptions": [
+                        "5-year tax-saving FD accounts",
+                        "FDs in a minor's name"
+                    ]
+                },
+                "features_and_benefits": {
+                    "title": "Features and Benefits of a Loan against FD",
+                    "list": [
+                        "No pre-payment penalty",
+                        "Minimal documentation",
+                        "Lower interest rates",
+                        "No credit score checks",
+                        "Continue earning interest on FD"
+                    ]
+                },
+                "application_process": {
+                    "title": "How to Apply Online for a Loan Against Fixed Deposit",
+                    "steps": [
+                        "Visit the lender's website",
+                        "Locate the section for Fixed Deposit or Loan against FD",
+                        "Choose Overdraft/Loan Facility against FD",
+                        "Provide loan amount and term details",
+                        "Submit application and wait for notification"
+                    ]
+                },
+                "overdraft_facility": {
+                    "title": "What is an Overdraft Facility?",
+                    "description": "An overdraft facility is a line of credit against your FD. The limit is lower than the deposit amount, but the interest rate is higher than the FD rate. Interest is only charged on the used amount, not the entire limit.",
+                    "example": "Ms. A has an 85% OD limit and a Rs. 1.5 lakh FD. She borrows Rs. 75,000. Interest will only be charged on the first Rs. 50,000."
+                },
+                "conclusion": {
+                    "summary": "Consider getting a loan against your FD if you need quick cash without breaking your investment. Start an FD if you haven't already for future loan options.",
+                    "call_to_action": "Use the Bank of Baroda FD calculator to determine interest earned and explore their competitive rates."
+                }
+            },
+            "faqs": {
+                "loan_amount": "Up to 90% of your FD amount",
+                "interest_rate": "1-2% higher than current FD rate",
+                "tenor": "Repaid before FD maturity",
+                "senior_citizens": "Yes, eligible"
+            }
+        }
+    ]
+}
